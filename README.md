@@ -17,4 +17,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![u2loud's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u2loud&layout=compact&hide_border=true&langs_count=10)
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/u2loud/u2loud/assets/github-contribution-grid-snake.svg" /></div>
