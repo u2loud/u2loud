@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @u2loud
-- 👀 I’m interested in music
-- 🌱 I’m currently learning ThinkPHP6
 
 ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-vscode-ellowgreen)
 ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-php%20%7C%20javascript-ff694b)
